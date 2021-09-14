@@ -12,7 +12,7 @@ int main()
     cout<<"Enter the value of 'n': ";
     cin>>n;
     cout<<endl;
-    for(i=1;i<n;i++)
+    for(i=0;i<n;i++)
     {
         cin>>array[i];
     }
