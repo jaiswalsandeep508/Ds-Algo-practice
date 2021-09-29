@@ -1,0 +1,1 @@
+int mask = ~(1<<pos);
